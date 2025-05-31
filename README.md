@@ -5,7 +5,7 @@
 - 📫 How to reach me ... for now, you can reach me through GitHub until I have other Social Media platforms made :)
 - ⚡ Fun fact: ... "Vaca" means 'Cow' in Spanish.
 
-I have a few personal projects in the works however they have not been posted here quite yet, because they are on a it of a larger scale. The personal project I hope to turn into a "masterwork", would be an RPG Website Design for a fictional/fantasy game called "Lost Order of Papiyas". 
+I have a few personal projects in the works however they have not been posted here quite yet, because they are on a bit of a larger scale. The personal project I hope to turn into a "masterwork", would be an RPG Website Design for a fictional/fantasy game called "Lost Order of Papiyas". 
 As I learn throughout my degree plan I will post my projects in designated files so that I can not only track my progress but to show future prospects and/or employers 👍
 
 
